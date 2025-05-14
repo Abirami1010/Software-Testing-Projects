@@ -1,4 +1,4 @@
-# 🧪 Manual Testing Project
+ ## 🧪 Manual Testing Project
 
 A comprehensive manual testing project repository that contains a structured **Test Plan** and detailed **Test Cases** to ensure the quality, functionality, and reliability of the application under test (AUT).
 
@@ -22,9 +22,6 @@ This repository serves as a resource for:
 - Developers
 - Project Managers
 - Stakeholders
-
-## 🗂️ Folder Structure
-
 
 
 ## 📝 Test Plan
