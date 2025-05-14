@@ -77,14 +77,14 @@ Each test case includes:
 
 4. Document results and report any defects using your team’s bug tracking tool.
 
-#**🛠️** **Technologies & Tools**
+## 🛠️ Technologies & Tools
 Documentation: MS Word, Excel (or Google Docs/Sheets)
 
 Bug Tracking: JIRA, Bugzilla (optional)
 
 Test Management: TestRail, Zephyr (optional)
 
-**🤝 Contributing**
+## 🤝 Contributing
 Contributions, suggestions, and improvements are welcome!
 
 Fork the repository
@@ -97,7 +97,7 @@ Push to the branch (git push origin feature-branch)
 
 Open a Pull Request
 
-**📞 Contact**
+## 📞 Contact
 For queries, suggestions, or collaborations:
 
 Abirami T
