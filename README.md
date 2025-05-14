@@ -5,7 +5,6 @@ A comprehensive manual testing project repository that contains a structured **T
 ## 📌 Table of Contents
 
 - [Project Overview](#project-overview)
-- [Folder Structure](#folder-structure)
 - [Test Plan](#test-plan)
 - [Test Cases](#test-cases)
 - [How to Use](#how-to-use)
